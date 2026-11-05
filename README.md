@@ -1,7 +1,4 @@
 <img width="2056" height="765" alt="6666" src="https://github.com/user-attachments/assets/174ba599-aefa-46bf-9cf9-e9acc1518ab2" />
-<p align="center">
-  <img src="banner.png" alt="Nexqor" width="100%">
-</p>
 
 <h1 align="center">NEXQOR</h1>
 
