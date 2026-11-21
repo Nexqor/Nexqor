@@ -56,8 +56,11 @@ $ cat focus.txt
 | Project | What it is |
 |---|---|
 | [`awesome-ai-security`](https://github.com/Nexqor/awesome-ai-security) | Frameworks, red team tools, guardrails, papers + sourced 2026 AI incident timeline |
-| [`ai-attack-playbook`](https://github.com/Nexqor/ai-attack-playbook) | 8 attacks on AI: how they work, real examples, detection, defense |
+| [`ai-attack-playbook`](https://github.com/Nexqor/ai-attack-playbook) | 9 attacks on AI: how they work, real examples, detection, defense |
 | [`nexqor-tools`](https://github.com/Nexqor/nexqor-tools) | Prompt injection scanner for RAG, agents and web content |
+| [`mcp-audit`](https://github.com/Nexqor/mcp-audit) | Static security audit for MCP configs: secrets, unpinned servers, auto-approve, tool poisoning |
+| [`ai-detection-rules`](https://github.com/Nexqor/ai-detection-rules) | Sigma rules for LLMjacking, agent credential theft, exfiltration, MCP tampering |
+| [`rag-canary`](https://github.com/Nexqor/rag-canary) | Canary tokens that pinpoint which RAG document leaked |
 | [nexqor.github.io](https://nexqor.github.io) | AI security news, playbook, free scanner, glossary |
 
 ⭐ Star the repos to follow new attacks and tools.
@@ -66,6 +69,3 @@ $ cat focus.txt
 
 **X:** [@whyNexqor](https://x.com/whyNexqor): daily breakdowns
 **Site:** [nexqor.github.io](https://nexqor.github.io): news, playbook, scanner
-**GitHub:** [Nexqor](https://github.com/Nexqor)
-
-<p align="center"><sub>Signal over noise. Educational content for defenders.</sub></p>
