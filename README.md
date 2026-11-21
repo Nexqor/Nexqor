@@ -11,8 +11,8 @@
 
 <p align="center">
   <a href="https://x.com/whyNexqor"><img src="https://img.shields.io/badge/X-@whyNexqor-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <img src="https://img.shields.io/badge/Focus-AI%20Security-00b3a4?style=for-the-badge" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Posts-Daily-00b3a4?style=for-the-badge" alt="Daily"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20Security-c41237?style=for-the-badge" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Posts-Daily-c41237?style=for-the-badge" alt="Daily"/>
 </p>
 
 ---
@@ -69,3 +69,6 @@ $ cat focus.txt
 
 **X:** [@whyNexqor](https://x.com/whyNexqor): daily breakdowns
 **Site:** [nexqor.github.io](https://nexqor.github.io): news, playbook, scanner
+**GitHub:** [Nexqor](https://github.com/Nexqor)
+
+<p align="center"><sub>Signal over noise. Educational content for defenders.</sub></p>
