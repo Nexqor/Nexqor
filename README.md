@@ -51,17 +51,21 @@ $ cat focus.txt
 > Why perimeter, EDR and MFA are not enough anymore, and what closes the gap.
 > → read it on [X](https://x.com/whyNexqor)
 
-## Coming to this GitHub
+## Projects
 
-- `awesome-ai-security`: a curated list of tools, papers and write-ups
-- `ai-attack-playbook`: real AI attacks, explained with defenses
-- `nexqor-tools`: small scripts used in my posts
+| Project | What it is |
+|---|---|
+| [`awesome-ai-security`](https://github.com/Nexqor/awesome-ai-security) | Frameworks, red team tools, guardrails, papers + sourced 2026 AI incident timeline |
+| [`ai-attack-playbook`](https://github.com/Nexqor/ai-attack-playbook) | 8 attacks on AI: how they work, real examples, detection, defense |
+| [`nexqor-tools`](https://github.com/Nexqor/nexqor-tools) | Prompt injection scanner for RAG, agents and web content |
+| [nexqor.github.io](https://nexqor.github.io) | AI security news, playbook, free scanner, glossary |
 
-⭐ Follow to get them first.
+⭐ Star the repos to follow new attacks and tools.
 
 ## Connect
 
 **X:** [@whyNexqor](https://x.com/whyNexqor): daily breakdowns
+**Site:** [nexqor.github.io](https://nexqor.github.io): news, playbook, scanner
 **GitHub:** [Nexqor](https://github.com/Nexqor)
 
 <p align="center"><sub>Signal over noise. Educational content for defenders.</sub></p>
